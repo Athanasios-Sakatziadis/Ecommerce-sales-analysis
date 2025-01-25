@@ -69,7 +69,10 @@ WHERE region IS NULL OR region = '';
 ![Monthly Revenue](https://github.com/user-attachments/assets/acf90b0b-002d-4e1c-90e9-9e0f4aef3eaa)
 
 *Key Insights*:
-According to the results, the above query shows the revenue month by month
+Revenue steadily increased from March (64,110.00) to December (97,920.00), showcasing a clear upward trend throughout the year.
+The highest revenue month was December, likely due to holiday shopping, while March recorded the lowest sales.
+Strong revenue was observed in November (118,090.00) and January (115,020.00), potentially driven by seasonal factors.
+Revenue stabilized between August and October, with values ranging from 103,000.00 to 106,000.00.
 
 --
 ### Question 4: Who are the top 5 customers by total spending?
