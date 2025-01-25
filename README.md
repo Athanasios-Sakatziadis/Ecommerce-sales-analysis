@@ -21,7 +21,7 @@ The project is based on a pretend email request from Maria Johnson, Sales Manage
 
 
 
-#Key questions from the request#:
+Key questions from the request:
 1. What are the top-selling products?
 2. Which regions generate the most revenue?
 3. How does revenue trend month by month?
