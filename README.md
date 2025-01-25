@@ -1,4 +1,4 @@
-# Ecommerce-sales-analysis
+# Ecommerce-sales-analysis#
 SQL project analyzing e-commerce sales data to provide insights into product performance, regional revenue, customer behavior, and shipping performance.
 
 This project demonstrates an end-to-end SQL-based analysis of an e-commerce dataset. The goal is to answer key business questions to provide actionable insights into product performance, regional revenue, customer behavior, and shipping performance.
@@ -19,7 +19,9 @@ The project is based on a pretend email request from Maria Johnson, Sales Manage
 
 ![Maria's Johnson Request](https://github.com/user-attachments/assets/17164860-71e9-4ffe-b10c-ee211089c5de)
 
-##Key questions from the request:
+
+
+#Key questions from the request#:
 1. What are the top-selling products?
 2. Which regions generate the most revenue?
 3. How does revenue trend month by month?
@@ -66,7 +68,7 @@ WHERE region IS NULL OR region = '';
 
 ![Monthly Revenue](https://github.com/user-attachments/assets/acf90b0b-002d-4e1c-90e9-9e0f4aef3eaa)
 
-*Key Insights*
+*Key Insights*:
 According to the results, the above query shows the revenue month by month
 
 --
