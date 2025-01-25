@@ -16,6 +16,7 @@ This project was created as part of my portfolio to showcase SQL skills in data 
    - I Visualized the insights using Power BI to create dynamic dashboards for storytelling.
      
 The project is based on a pretend email request from Maria Johnson, Sales Manager:
+
 ![Maria's Johnson Request](https://github.com/user-attachments/assets/17164860-71e9-4ffe-b10c-ee211089c5de)
 
 ##Key questions from the request:
@@ -32,21 +33,25 @@ Our Data:
 For each business question:
 
 I'm Displaying the Screenshot with Results.
-I'm Highlighting Key Insights.
+I'm Highlighting Key Insights
+
+
 --
 ### Question 1: What are the top-selling products?
 
 ![Top Selling Products](https://github.com/user-attachments/assets/1c67e470-41c6-4076-a685-2018ef19e349)
 
-**Key Insights**:
+*Key Insights*:
 The top-selling product is "Monitor", with a total of 460 units sold.
 Accessories dominate the top 5, indicating strong demand in this category.
+
+
 --
 ### Question 2: Which regions generate the most revenue?
 
 ![About Regions](https://github.com/user-attachments/assets/4858491f-4732-4060-8aec-aca88902cef7)
 
-**Key Insights**:
+*Key Insights*:
 The region with the most revenue is North with 288.590 revenue in total.
 We also notice that there is a line with "Unknown" data in the region field which rises up to 62.970
 
@@ -55,12 +60,13 @@ Since the unknown field were Null, i replaced the null field with Unknown by usi
 UPDATE orders
 SET region = 'unknown'
 WHERE region IS NULL OR region = '';
+
 --
 ### Question 3: How does revenue trend month by month?
 
 ![Monthly Revenue](https://github.com/user-attachments/assets/acf90b0b-002d-4e1c-90e9-9e0f4aef3eaa)
 
-**Key Insights**
+*Key Insights*
 According to the results, the above query shows the revenue month by month
 
 --
@@ -68,14 +74,15 @@ According to the results, the above query shows the revenue month by month
 
 ![Top five Customers](https://github.com/user-attachments/assets/effd69bc-9098-4adb-b6cf-059c06b3c618)
 
-**Key Insights**
+*Key Insights*:
 The best five customers are in the screenshot above
+
 --
 ### Question 5: What percentage of orders fall under each shipping status?
 
 ![Shipping status](https://github.com/user-attachments/assets/5a72bee8-8696-4ca8-8fcc-7a1bc28d05c3)
 
-**Key Insights**
+*Key Insights*:
 According to caclucations, the percentage of orders that fall under each shipping status are 33.3% for Transit, 30.7% for Returns,
  30.8% for delivered and 5% for pending. 
 
