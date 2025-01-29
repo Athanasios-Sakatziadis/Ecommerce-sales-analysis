@@ -13,7 +13,7 @@ This project was created as part of my portfolio to showcase SQL skills in data 
 3. **SQL Analysis**:
    - I Used SQL queries to answer business questions related to top products, regional performance, and customer trends.
 4. **Visualization**:
-   - I Visualized the insights using Power BI to create dynamic dashboards for storytelling.
+   - I Visualized the insights using Tableau to create dynamic dashboards.
      
 The project is based on a pretend email request from Maria Johnson, Sales Manager:
 
@@ -91,8 +91,15 @@ The best five customers are in the screenshot above
 According to caclucations, the percentage of orders that fall under each shipping status are 33.3% for Transit, 30.7% for Returns,
  30.8% for delivered and 5% for pending. 
 
+![Top Selling products - Visualization](https://github.com/user-attachments/assets/16291541-1a3e-45da-bb96-79f845e301d4)
 
+![Revenue by Region - visialization](https://github.com/user-attachments/assets/22d38678-8e9d-4213-9aa2-374ed28e9d49)
 
+![Monthly Revenue - Visualization](https://github.com/user-attachments/assets/34fa96f2-ba3a-4a77-8bba-58d17e174258)
+
+![Top Five Customers - Visualization](https://github.com/user-attachments/assets/89b47a96-80b4-4564-a7ce-509d84e4c9b8)
+
+![shipping status - visualization](https://github.com/user-attachments/assets/70fe331d-d44b-444e-a1f4-e1fe43bd8916)
 
 
 
