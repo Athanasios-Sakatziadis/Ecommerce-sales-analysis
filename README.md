@@ -1,6 +1,10 @@
-# Ecommerce-sales-analysis#
-SQL project analyzing e-commerce sales data to provide insights into product performance, regional revenue, customer behavior, and shipping performance.
+# Ecommerce-sales-analysis Using SQL
+
 ![Στιγμιότυπο οθόνης 2025-02-26 175405](https://github.com/user-attachments/assets/7aa1aba6-b07a-4ad8-afc9-bf88a736f186)
+
+
+SQL project analyzing e-commerce sales data to provide insights into product performance, regional revenue, customer behavior, and shipping performance.
+
 
 This project demonstrates an end-to-end SQL-based analysis of an e-commerce dataset. The goal is to answer key business questions to provide actionable insights into product performance, regional revenue, customer behavior, and shipping performance.
 This project was created as part of my portfolio to showcase SQL skills in data analysis and storytelling. The Data set is from Kaggle.
